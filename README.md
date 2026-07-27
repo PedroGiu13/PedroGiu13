@@ -15,5 +15,3 @@ I'm finishing an MSc in Data Science at King's College London, and most of what'
 
 [LinkedIn](https://linkedin.com/in/pedro-giussani)
 
-What changed from the first draft: dropped the L'Oréal résumé recap and the "targeting X roles" pitch entirely, that's what your CV and LinkedIn are for. Led instead with the thing that's actually true and differentiated about your work, the willingness to report a null result instead of overselling a signal, and framed the "currently exploring" section as genuine curiosity rather than a job search checklist.
-
