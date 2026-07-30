@@ -1,4 +1,4 @@
-<h1 align="center">Pedro Giussani</h1>
+<h1 align="center">Hey there 👋, I'm Pedro</h1>
 
 <p align="center">
   <a href="mailto:pgiussani.e@gmail.com"><img src="https://img.shields.io/badge/Email-pgiussani.e%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
