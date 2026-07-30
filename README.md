@@ -1,17 +1,18 @@
-### Hi, I'm Pedro
-I'm finishing an MSc in Data Science at King's College London, and most of what's here is me applying that mindset to quantitative finance and NLP: build a model, run it against a proper out-of-sample test, and write down the result even when it's a null one.
+<h1 align="center">Hi 👋, I'm Pedro</h1>
+<h3 align="center">I'm passionate about applying data to solve problems</h3>
 
-**What I'm exploring right now**
-- Quantitative signal research — factor testing, backtesting discipline, avoiding look-ahead and multiple-testing bias
-- NLP for financial text — transformer-based sentiment models, and whether the "signal" survives a robustness check
-- Production-grade ML practice — the gap between a notebook that works and a system that can be trusted
+- 🔭 Project 1 [XGBoost Return Prediction Project]([link](https://github.com/PedroGiu13/cross-section-return-prediction.git))
+- 🔭 Project 1 [XGBoost Return Prediction Project]([link](https://github.com/PedroGiu13/cross-section-return-prediction.git))
 
-**Projects**
-- [Cross-Sectional Return Prediction](https://github.com/PedroGiu13/cross-section-return-prediction) — XGBoost factor model with walk-forward validation and a Deflated Sharpe Ratio correction, because a Sharpe ratio pulled out of a hyperparameter search deserves suspicion
-- [FinBERT Earnings Calls Sentiment](https://github.com/PedroGiu13/FinBERT_earnings_calls_analysis) — tested whether earnings-call sentiment predicts returns; the honest answer was mostly no, and the README says so
-- [MLP vs. CNN on MNIST/USPS](https://github.com/PedroGiu13/MLP_CNN_MNIST) — why translation invariance matters once you leave the training distribution
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+</p>
 
-**Stack:** Python (XGBoost, PyTorch, scikit-learn), SQL, R
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-[LinkedIn](https://linkedin.com/in/pedro-giussani)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrogiu13&show_icons=true&locale=en&layout=compact" alt="pedrogiu13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrogiu13&" alt="pedrogiu13" /></p>
 
