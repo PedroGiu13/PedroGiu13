@@ -42,7 +42,7 @@ A side-by-side comparison of a simple MLP and a CNN on MNIST, then stress-tested
 
 <br>
 
-### Tools I reach for
+### Tools I use
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -64,7 +64,7 @@ A side-by-side comparison of a simple MLP and a CNN on MNIST, then stress-tested
 
 <br>
 
-### Get in touch
+### Contact me
 
 <p align="left">
   <a href="https://linkedin.com/in/pedro-giussani">
