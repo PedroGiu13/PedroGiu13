@@ -1,20 +1,55 @@
-<h1 align="center">Hi 👋, I'm Pedro</h1>
+### Hey, I'm Pedro 👋
 
-<!--Start Intro-->               
-<p align="left">I'm a Data Scientist and Machine Learning Enthusiast</p>
+I'm an MSc Data Science student who likes turning data into decisions. Most of my time goes into experimenting with machine learning and forecasting, applying it wherever it's useful, from equity markets to financial text to computer vision, rather than sticking to one domain.
 
+This profile is where I keep the things I build outside of coursework and work.
 
-<!--End Intro-->
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Recent projects
 
-<h3 align="left">Connect with me:</h3>
+**[Cross-Sectional Return Prediction Using Machine Learning](https://github.com/PedroGiu13/cross-section-return-prediction)**
+A quant-style ML pipeline testing price-based factors for equity return prediction across 200 US stocks (2000–2025), with walk-forward validation and a Deflated Sharpe Ratio correction to keep the results honest.
+
+**[FinBERT Earnings Calls Sentiment](https://github.com/PedroGiu13/FinBERT_earnings_calls_analysis)**
+Applying FinBERT to 16 years of earnings-call transcripts to test whether sentiment predicts returns. The honest answer was mostly no, and figuring out exactly when it does was the interesting part.
+
+**[Handwritten Digit Classification — MLP vs. CNN](https://github.com/PedroGiu13/MLP_CNN_MNIST)**
+A side-by-side comparison of a simple MLP and a CNN on MNIST, then stress-tested on USPS digits to see which one actually generalizes out of distribution.
+
+<br>
+
+### Tools I reach for
+
 <p align="left">
-<a href="https://linkedin.com/in/linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrogiu13&show_icons=true&locale=en&layout=compact" alt="pedrogiu13" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrogiu13&" alt="pedrogiu13" /></p>
+### GitHub activity
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroGiu13&show_icons=true&count_private=true&hide_border=true&theme=default" alt="Pedro's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGiu13&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroGiu13&hide_border=true&theme=default" alt="GitHub streak"/>
+</p>
+
+<br>
+
+### Get in touch
+
+<p align="left">
+  <a href="https://linkedin.com/in/pedro-giussani">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pgiussani.e@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
