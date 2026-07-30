@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">I'm passionate about applying data to solve problems</h3>
 
-- 🔭 Project 1 [XGBoost Return Prediction Project]([link](https://github.com/PedroGiu13/cross-section-return-prediction.git))
+- 🔭 Project 1 [XGBoost Return Prediction Project](https://github.com/PedroGiu13/cross-section-return-prediction.git)
 - 🔭 Project 1 [XGBoost Return Prediction Project]([link](https://github.com/PedroGiu13/cross-section-return-prediction.git))
 
 <h3 align="left">Connect with me:</h3>
