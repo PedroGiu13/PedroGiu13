@@ -1,0 +1,29 @@
+<svg width="760" height="190" viewBox="0 0 760 190" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card-bg { fill: #ffffff; stroke: #d0d7de; }
+    .card-title { fill: #0969da; font: 600 18px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .card-desc { fill: #24292f; font: 400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .chip-bg { fill: #f6f8fa; stroke: #d0d7de; }
+    .chip-text { fill: #57606a; font: 500 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .card-bg { fill: #0d1117; stroke: #30363d; }
+      .card-title { fill: #58a6ff; }
+      .card-desc { fill: #c9d1d9; }
+      .chip-bg { fill: #21262d; stroke: #30363d; }
+      .chip-text { fill: #8b949e; }
+    }
+  </style>
+  <rect x="1" y="1" width="758" height="188" rx="14" class="card-bg" stroke-width="1"/>
+  <text x="24" y="36" class="card-title">Handwritten Digit Classification &#8212; MLP vs. CNN</text>
+  <text class="card-desc">
+    <tspan x="24" y="66">A side-by-side comparison of a simple MLP and a CNN on MNIST, then</tspan>
+    <tspan x="24" y="88">stress-tested on USPS digits to see which one actually generalizes out of</tspan>
+    <tspan x="24" y="110">distribution.</tspan>
+  </text>
+  <rect x="24" y="146" width="62" height="26" rx="6" class="chip-bg" stroke-width="1"/>
+  <text x="55" y="163" text-anchor="middle" class="chip-text">Python</text>
+  <rect x="96" y="146" width="90" height="26" rx="6" class="chip-bg" stroke-width="1"/>
+  <text x="141" y="163" text-anchor="middle" class="chip-text">TensorFlow</text>
+  <rect x="196" y="146" width="104" height="26" rx="6" class="chip-bg" stroke-width="1"/>
+  <text x="248" y="163" text-anchor="middle" class="chip-text">scikit-learn</text>
+</svg>

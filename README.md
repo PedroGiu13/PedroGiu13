@@ -8,39 +8,23 @@ This profile is where I keep the things I build outside of coursework and work.
 
 ### Recent projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://github.com/PedroGiu13/cross-section-return-prediction">
+    <img src="assets/project-cross-section.svg" alt="Cross-Sectional Return Prediction Using Machine Learning" width="760"/>
+  </a>
+</p>
 
-**[Cross-Sectional Return Prediction Using Machine Learning](https://github.com/PedroGiu13/cross-section-return-prediction)**
+<p align="center">
+  <a href="https://github.com/PedroGiu13/FinBERT_earnings_calls_analysis">
+    <img src="assets/project-finbert.svg" alt="FinBERT Earnings Calls Sentiment" width="760"/>
+  </a>
+</p>
 
-A quant-style ML pipeline testing price-based factors for equity return prediction across 200 US stocks (2000–2025), with walk-forward validation and a Deflated Sharpe Ratio correction to keep the results honest.
-
-<img src="https://img.shields.io/badge/Python-grey?style=flat-square" alt="Python"/> <img src="https://img.shields.io/badge/XGBoost-grey?style=flat-square" alt="XGBoost"/> <img src="https://img.shields.io/badge/Optuna-grey?style=flat-square" alt="Optuna"/> <img src="https://img.shields.io/badge/pandas-grey?style=flat-square" alt="pandas"/>
-
-</td>
-<td width="50%" valign="top">
-
-**[FinBERT Earnings Calls Sentiment](https://github.com/PedroGiu13/FinBERT_earnings_calls_analysis)**
-
-Applying FinBERT to 16 years of earnings-call transcripts to test whether sentiment predicts returns. The honest answer was mostly no, and figuring out exactly when it does was the interesting part.
-
-<img src="https://img.shields.io/badge/Python-grey?style=flat-square" alt="Python"/> <img src="https://img.shields.io/badge/PyTorch-grey?style=flat-square" alt="PyTorch"/> <img src="https://img.shields.io/badge/Hugging%20Face-grey?style=flat-square" alt="Hugging Face"/> <img src="https://img.shields.io/badge/FinBERT-grey?style=flat-square" alt="FinBERT"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**[Handwritten Digit Classification — MLP vs. CNN](https://github.com/PedroGiu13/MLP_CNN_MNIST)**
-
-A side-by-side comparison of a simple MLP and a CNN on MNIST, then stress-tested on USPS digits to see which one actually generalizes out of distribution.
-
-<img src="https://img.shields.io/badge/Python-grey?style=flat-square" alt="Python"/> <img src="https://img.shields.io/badge/TensorFlow-grey?style=flat-square" alt="TensorFlow"/> <img src="https://img.shields.io/badge/scikit--learn-grey?style=flat-square" alt="scikit-learn"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/PedroGiu13/MLP_CNN_MNIST">
+    <img src="assets/project-mnist.svg" alt="Handwritten Digit Classification — MLP vs. CNN" width="760"/>
+  </a>
+</p>
 
 ---
 
