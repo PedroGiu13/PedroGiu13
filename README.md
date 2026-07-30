@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">I'm passionate about applying data to solve problems</h3>
 
-- 🔭 Project 1 [XGBoost Return Prediction Project](https://github.com/PedroGiu13/cross-section-return-prediction.git)
-- 🔭 Project 1 [XGBoost Return Prediction Project]([link](https://github.com/PedroGiu13/cross-section-return-prediction.git))
+<!--Start Intro-->               
+<p align="left">I'm a Data Scientist and Machine Learning Enthusiast</p>
+
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
+- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio](https://kirannaragund.com) for more details about me.
+<!--End Intro-->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
