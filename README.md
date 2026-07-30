@@ -9,8 +9,6 @@
 
 I'm an MSc Data Science student who likes turning data into decisions. Most of my time goes into experimenting with machine learning and forecasting, applying it wherever it's useful, from equity markets to financial text to computer vision, rather than sticking to one domain.
 
-This profile is where I keep the things I build outside of coursework and work.
-
 ---
 
 ### Recent projects
