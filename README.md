@@ -1,4 +1,12 @@
-### Hey, I'm Pedro 👋
+<h1 align="center">Pedro Giussani</h1>
+
+<p align="center">
+  <a href="mailto:pgiussani.e@gmail.com"><img src="https://img.shields.io/badge/Email-pgiussani.e%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/pedro-giussani"><img src="https://img.shields.io/badge/LinkedIn-pedro--giussani-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/PedroGiu13"><img src="https://img.shields.io/badge/GitHub-PedroGiu13-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+---
 
 I'm an MSc Data Science student who likes turning data into decisions. Most of my time goes into experimenting with machine learning and forecasting, applying it wherever it's useful, from equity markets to financial text to computer vision, rather than sticking to one domain.
 
@@ -46,17 +54,4 @@ This profile is where I keep the things I build outside of coursework and work.
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroGiu13&theme=github-compact&hide_border=true" alt="Pedro's GitHub activity graph"/>
-</p>
-
----
-
-### Contact me
-
-<p align="left">
-  <a href="https://linkedin.com/in/pedro-giussani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:pgiussani.e@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 </p>
