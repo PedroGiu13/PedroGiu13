@@ -3,7 +3,6 @@
 <p align="center">
   <a href="mailto:pgiussani.e@gmail.com"><img src="https://img.shields.io/badge/Email-pgiussani.e%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/pedro-giussani"><img src="https://img.shields.io/badge/LinkedIn-pedro--giussani-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/PedroGiu13"><img src="https://img.shields.io/badge/GitHub-PedroGiu13-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
